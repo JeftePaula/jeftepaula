@@ -1,5 +1,7 @@
 # これは私です 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeftepaula&show_icons=true&theme=tokyonight)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeftepaula&repo=Orcamento-project)](https://jeftepaula.github.io/Orcamento-project)
 <!--
 **JeftePaula/jeftepaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
