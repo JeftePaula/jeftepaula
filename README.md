@@ -1,8 +1,14 @@
 <h1 title="este sou eu">これは私です 👋</h1>
+<div>
 
-![jefte GitHub stats](https://github-readme-stats.vercel.app/api?username=jeftepaula&show_icons=true&theme=tokyonight)
+  ![jefte GitHub stats](https://github-readme-stats.vercel.app/api?username=jeftepaula&show_icons=true&theme=tokyonight)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeftepaula)](https://github.com/anuraghazra/github-readme-stats)
+  <h2>Projeto em destaque</h2>
+
+</div>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeftepaula&repo=Orcamento-project)](https://jeftepaula.github.io/Orcamento-project)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeftepaula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ##
 <div>
